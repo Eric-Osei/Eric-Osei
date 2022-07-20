@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eric-Osei Owusu
+- 👋 Hi, I’m @Eric-Osei 
 - 👀 I’m interested in Research and data analytics
 - 🌱 I’m currently learning Python, Power Bi
 - 💞️ I’m looking to collaborate on any project on qualitative or quantitatve research, data analytics, data cleaning, analysis and visualization

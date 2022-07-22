@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eric-Osei 
-- 👀 I’m interested in Research and data analytics
+- 👀 I’m interested in Research methods and data analytics
 - 🌱 I’m currently learning Python, Power Bi
 - 💞️ I’m looking to collaborate on any project on qualitative or quantitatve research, data analytics, data cleaning, analysis and visualization
 - 📫 How to reach me: Email- erikowusu2@gmail.com or Mobile: +233 20 941 2328
